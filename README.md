@@ -5,6 +5,16 @@ Algorithms related to detecting and tracking people using various robot sensors.
 ## Documentation
 [http://ros.org/wiki/people](http://ros.org/wiki/people)
 
+
+
+sudo apt install ros-noetic-easy-markers 
+
+sudo apt install ros-noetic-robot-pose-ekf
+
+sudo apt install ros-noetic-kalman-filter 
+
+
+
 ## Status
 | Distro | Status |
 | ------ | ------ |
